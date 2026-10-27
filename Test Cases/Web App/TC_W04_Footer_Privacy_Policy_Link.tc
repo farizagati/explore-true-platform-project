@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Link Privacy Policy di footer harus membuka halaman Privacy Policy. Sengaja gagal untuk latihan Module 9 (BUG-09: link footer masih "#").</description>
+   <name>TC_W04_Footer_Privacy_Policy_Link</name>
+   <tag>web,known-bug</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c3e9b6f4-8a2d-4f1e-b7c5-6d0a9e2f1b34</testCaseGuid>
+</TestCaseEntity>
