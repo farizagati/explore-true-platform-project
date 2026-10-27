@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Member membuka form Book Appointment</description>
+   <name>TC_W03_Open_Book_Appointment</name>
+   <tag>web,smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea7e47be-fba8-4c40-8ce7-09813f45fb25</testCaseGuid>
+</TestCaseEntity>

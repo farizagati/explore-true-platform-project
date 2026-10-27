@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>URL ClinicFlow (web)</description>
+      <initValue>'https://farizagati.github.io/clinic-flow-appointment-system/'</initValue>
+      <name>baseUrlWeb</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Base URL API latihan KCERT26</description>
+      <initValue>'https://farizagati-api-ecommerce-shop.vercel.app'</initValue>
+      <name>baseUrlApi</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Email member demo (tertera di halaman login ClinicFlow)</description>
+      <initValue>'johnyjohnyyespapa@mail.com'</initValue>
+      <name>memberEmail</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password member demo (tertera di halaman login ClinicFlow)</description>
+      <initValue>'EatingSugarNoPapa'</initValue>
+      <name>memberPassword</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
