@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Member login berhasil di ClinicFlow</description>
+   <name>TC_W01_Login_Valid</name>
+   <tag>GenAI,web,smoke</tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Fareza Tester</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>408dfdb0-0810-4cdb-8a9a-5efc6d6f8dd0</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Fareza Tester</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>408dfdb0-0810-4cdb-8a9a-5efc6d6f8dd0</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a205bd8f-b51a-485e-819b-c719bf742c2c</testCaseGuid>
+</TestCaseEntity>

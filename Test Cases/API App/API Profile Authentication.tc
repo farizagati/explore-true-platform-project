@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Member login berhasil di ClinicFlow</description>
-   <name>TC_W01_Login_Valid</name>
-   <tag>GenAI,web,smoke</tag>
+   <description>Verify the authenticated mock profile endpoint using baseUrlApi and the documented Bearer token.</description>
+   <name>API Profile Authentication</name>
+   <tag>GenAI</tag>
    <integratedEntity>
       <productName>TESTOPS</productName>
       <properties>
@@ -26,6 +26,7 @@
       <type>TESTCASE</type>
    </integratedEntity>
    <comment></comment>
+   <origin>STUDIOASSIST</origin>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>a205bd8f-b51a-485e-819b-c719bf742c2c</testCaseGuid>
+   <testCaseGuid>725a1726-e3ed-43b7-8786-678b56866267</testCaseGuid>
 </TestCaseEntity>

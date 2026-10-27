@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the products collection endpoint using the baseUrlApi global variable.</description>
+   <name>API Products List</name>
+   <tag>GenAI</tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Fareza Tester</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Fareza Tester</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>408dfdb0-0810-4cdb-8a9a-5efc6d6f8dd0</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>408dfdb0-0810-4cdb-8a9a-5efc6d6f8dd0</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb3b5919-1296-4620-9b59-c16ab80a7498</testCaseGuid>
+</TestCaseEntity>

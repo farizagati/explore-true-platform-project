@@ -17,7 +17,7 @@
       <guid>eba80fe1-dffd-4a64-9ba1-a32f2c04225e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_W01_Login_Valid</testCaseId>
+      <testCaseId>Test Cases/Web App/TC_W01_Login_Valid</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
